@@ -1,7 +1,4 @@
 #include "TestObject.h"
-//#include "Internationalization/Internationalization.h"
-#include "PropertyEditor/Private/DetailPropertyRow.h"
-#include "PropertyEditor/Private/ObjectPropertyNode.h"
 #define LOCTEXT_NAMESPACE "TestObject"
 TSharedRef<IDetailCustomization> FMyClassCustomization::MakeInstance()
 {
